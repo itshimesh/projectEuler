@@ -1,0 +1,1 @@
+This is my solution for problem 3 on project Euler.
